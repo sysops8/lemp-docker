@@ -29,11 +29,11 @@ docker compose up -d
 ```
 
 ### Доступы:
-web приложение (файл index.php):
+- web приложение (файл index.php):
 http://localhost:8080/
 
-phpmyadmin:
+- phpmyadmin:
 http://localhost:8081/
 
-redis UI:
+- redis UI:
 http://localhost:5540
