@@ -35,5 +35,5 @@ http://localhost:8080/
 - phpmyadmin:
 http://localhost:8081/
 
-- redis UI (нужно предварительно прописать connection к хосту mysql):
+- redis UI (нужно предварительно прописать connection к хосту redis и пароль):
 http://localhost:5540
