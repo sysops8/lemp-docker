@@ -29,6 +29,9 @@ docker compose up -d
 ```
 
 ### Доступы:
+web приложение (файл index.php):
+http://localhost:8080/
+
 phpmyadmin:
 http://localhost:8081/
 
