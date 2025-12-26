@@ -43,12 +43,12 @@ http://localhost:5540
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/87d5cec0-af8a-49f9-a555-4e0543535f07" />
 
-- index.php
+- скриншоот страницы index.php
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2e58995a-7a7e-44b3-8ff3-3cf7991e6165" />
 
-- phpmyadmin page 
+- управление mysql базами через phpmyadmin page 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2a0a7841-909e-4836-a235-35de9fb1d4b3" />
 
-- redis insight
+- веб UI redis insight для redis db
